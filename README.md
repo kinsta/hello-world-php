@@ -1,3 +1,5 @@
+![Photo by Yoksel 🌿 Zok on Unsplash](https://user-images.githubusercontent.com/2342458/202706130-d6d2995a-9171-4619-ab15-abc93603fa86.png)
+
 # Kinsta - Hello World - PHP
 An example of how to set your PHP application up to enable deployment on Kinsta App Hosting services.
 
