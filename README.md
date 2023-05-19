@@ -19,5 +19,5 @@ Kinsta will automatically configure an apache web server which will serve from t
 ## What is PHP
 PHP is a popular server-side scripting language used primarily for web development. It enables developers to create dynamic web pages, interact with databases, and handle various web-related tasks efficiently. Learn more on [php.net](https://php.net).
 
-## Watch how to set Up a PHP Application on Kinsta
+## Watch How to Set Up a PHP Application on Kinsta
 [![Watch the video](https://img.youtube.com/vi/PCvrcyV3_hI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCvrcyV3_hI)
