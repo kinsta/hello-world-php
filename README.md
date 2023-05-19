@@ -15,3 +15,9 @@ During the deployment process Kinsta will automatically install dependencies def
 
 ## Web Server Setup
 Kinsta will automatically configure an apache web server which will serve from the main directory of the project in the usual fashion; create an `index.php` file in your project folder as the entry-point.
+
+## What is PHP
+PHP is a popular server-side scripting language used primarily for web development. It enables developers to create dynamic web pages, interact with databases, and handle various web-related tasks efficiently. Learn more on [php.net](https://php.net).
+
+## Watch how to set Up a PHP Application on Kinsta
+[![Watch the video](https://img.youtube.com/vi/PCvrcyV3_hI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PCvrcyV3_hI)
